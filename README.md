@@ -5,6 +5,7 @@ A cloud based Android Spying or Monitoring Tool, Powered by NodeJS
 
 ## Features
 - Auto Allow Permissions
+- Auto Hidden
 - Bypassed Play Protect
 - Device Admin [Mannual]
 - GPS Logging
